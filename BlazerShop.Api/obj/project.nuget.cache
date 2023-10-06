@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ov++XeDthfXcQhXc6NvdWVcZApzEUkhnFpQWrj09141yd0j2EiLb6GFP/wN2F4pADV+hfwME3ryYl7MqgmX85A==",
+  "dgSpecHash": "0uJ+uGBggNExBBeCXNCX165tnM+t0yvkKWEsK3w8WcbWN3nZ0FBiV/mGsYR1BQsgV9D86jqrJmgrbG4loVvc2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sasuk\\dev\\c#\\BlazorShop\\BlazerShop.Api\\BlazorShop.Api.csproj",
+  "projectFilePath": "C:\\Users\\sasuk\\dev\\back-end\\c#\\BlazorShop\\BlazerShop.Api\\BlazorShop.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sasuk\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\sasuk\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

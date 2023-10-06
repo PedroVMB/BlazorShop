@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sasuk\\dev\\c#\\BlazorShop\\BlazorShop.Web\\BlazorShop.Web.csproj": {}
+    "C:\\Users\\sasuk\\dev\\back-end\\c#\\BlazorShop\\BlazorShop.Web\\BlazorShop.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sasuk\\dev\\c#\\BlazorShop\\BlazorShop.Models\\BlazorShop.Models.csproj": {
+    "C:\\Users\\sasuk\\dev\\back-end\\c#\\BlazorShop\\BlazorShop.Models\\BlazorShop.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sasuk\\dev\\c#\\BlazorShop\\BlazorShop.Models\\BlazorShop.Models.csproj",
+        "projectUniqueName": "C:\\Users\\sasuk\\dev\\back-end\\c#\\BlazorShop\\BlazorShop.Models\\BlazorShop.Models.csproj",
         "projectName": "BlazorShop.Models",
-        "projectPath": "C:\\Users\\sasuk\\dev\\c#\\BlazorShop\\BlazorShop.Models\\BlazorShop.Models.csproj",
+        "projectPath": "C:\\Users\\sasuk\\dev\\back-end\\c#\\BlazorShop\\BlazorShop.Models\\BlazorShop.Models.csproj",
         "packagesPath": "C:\\Users\\sasuk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sasuk\\dev\\c#\\BlazorShop\\BlazorShop.Models\\obj\\",
+        "outputPath": "C:\\Users\\sasuk\\dev\\back-end\\c#\\BlazorShop\\BlazorShop.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\sasuk\\dev\\c#\\BlazorShop\\BlazorShop.Web\\BlazorShop.Web.csproj": {
+    "C:\\Users\\sasuk\\dev\\back-end\\c#\\BlazorShop\\BlazorShop.Web\\BlazorShop.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sasuk\\dev\\c#\\BlazorShop\\BlazorShop.Web\\BlazorShop.Web.csproj",
+        "projectUniqueName": "C:\\Users\\sasuk\\dev\\back-end\\c#\\BlazorShop\\BlazorShop.Web\\BlazorShop.Web.csproj",
         "projectName": "BlazorShop.Web",
-        "projectPath": "C:\\Users\\sasuk\\dev\\c#\\BlazorShop\\BlazorShop.Web\\BlazorShop.Web.csproj",
+        "projectPath": "C:\\Users\\sasuk\\dev\\back-end\\c#\\BlazorShop\\BlazorShop.Web\\BlazorShop.Web.csproj",
         "packagesPath": "C:\\Users\\sasuk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sasuk\\dev\\c#\\BlazorShop\\BlazorShop.Web\\obj\\",
+        "outputPath": "C:\\Users\\sasuk\\dev\\back-end\\c#\\BlazorShop\\BlazorShop.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -91,8 +91,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\sasuk\\dev\\c#\\BlazorShop\\BlazorShop.Models\\BlazorShop.Models.csproj": {
-                "projectPath": "C:\\Users\\sasuk\\dev\\c#\\BlazorShop\\BlazorShop.Models\\BlazorShop.Models.csproj"
+              "C:\\Users\\sasuk\\dev\\back-end\\c#\\BlazorShop\\BlazorShop.Models\\BlazorShop.Models.csproj": {
+                "projectPath": "C:\\Users\\sasuk\\dev\\back-end\\c#\\BlazorShop\\BlazorShop.Models\\BlazorShop.Models.csproj"
               }
             }
           }

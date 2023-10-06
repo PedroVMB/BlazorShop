@@ -9,3 +9,14 @@ C:\Users\sasuk\dev\c#\BlazorShop\BlazorShop.Models\obj\Debug\net6.0\BlazorShop.M
 C:\Users\sasuk\dev\c#\BlazorShop\BlazorShop.Models\obj\Debug\net6.0\refint\BlazorShop.Models.dll
 C:\Users\sasuk\dev\c#\BlazorShop\BlazorShop.Models\obj\Debug\net6.0\BlazorShop.Models.pdb
 C:\Users\sasuk\dev\c#\BlazorShop\BlazorShop.Models\obj\Debug\net6.0\ref\BlazorShop.Models.dll
+C:\Users\sasuk\dev\back-end\c#\BlazorShop\BlazorShop.Models\bin\Debug\net6.0\BlazorShop.Models.deps.json
+C:\Users\sasuk\dev\back-end\c#\BlazorShop\BlazorShop.Models\bin\Debug\net6.0\BlazorShop.Models.dll
+C:\Users\sasuk\dev\back-end\c#\BlazorShop\BlazorShop.Models\bin\Debug\net6.0\BlazorShop.Models.pdb
+C:\Users\sasuk\dev\back-end\c#\BlazorShop\BlazorShop.Models\obj\Debug\net6.0\BlazorShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasuk\dev\back-end\c#\BlazorShop\BlazorShop.Models\obj\Debug\net6.0\BlazorShop.Models.AssemblyInfoInputs.cache
+C:\Users\sasuk\dev\back-end\c#\BlazorShop\BlazorShop.Models\obj\Debug\net6.0\BlazorShop.Models.AssemblyInfo.cs
+C:\Users\sasuk\dev\back-end\c#\BlazorShop\BlazorShop.Models\obj\Debug\net6.0\BlazorShop.Models.csproj.CoreCompileInputs.cache
+C:\Users\sasuk\dev\back-end\c#\BlazorShop\BlazorShop.Models\obj\Debug\net6.0\BlazorShop.Models.dll
+C:\Users\sasuk\dev\back-end\c#\BlazorShop\BlazorShop.Models\obj\Debug\net6.0\refint\BlazorShop.Models.dll
+C:\Users\sasuk\dev\back-end\c#\BlazorShop\BlazorShop.Models\obj\Debug\net6.0\BlazorShop.Models.pdb
+C:\Users\sasuk\dev\back-end\c#\BlazorShop\BlazorShop.Models\obj\Debug\net6.0\ref\BlazorShop.Models.dll
