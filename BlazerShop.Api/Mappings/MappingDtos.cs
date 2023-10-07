@@ -1,4 +1,4 @@
-﻿using BlazerShop.Api.Entities;
+﻿using BlazorShop.Api.Entities;
 using BlazorShop.Models.DTOs;
 
 namespace BlazorShop.Api.Mappings;
@@ -13,7 +13,7 @@ public static class MappingDtos
                 {
                     Id = categoria.Id,
                     Nome = categoria.Nome,
-                    IconCss = categoria.IconCss
+                    IconCss = categoria.IconCSS
                 }).ToList();
     }
     public static IEnumerable<ProdutoDto> ConverterProdutosParaDto(

@@ -1,4 +1,4 @@
-﻿using BlazerShop.Api.Entities;
+﻿using BlazorShop.Api.Entities;
 
 namespace BlazorShop.Api.Repositories
 {
